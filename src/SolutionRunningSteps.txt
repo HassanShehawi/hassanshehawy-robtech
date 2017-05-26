@@ -1,0 +1,8 @@
+Exam Solution Steps:
+
+In a terminal:
+rosrun using_markers basic_shapes
+
+In a new terminal:
+rosrun rviz rviz -f /my_frame
+
